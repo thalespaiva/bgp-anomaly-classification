@@ -186,5 +186,5 @@ MIT
 * Thales Paiva
 * Yaissa Siqueira
 * Daniel Macêdo Batista
-* Roberto Hirata
+* Roberto Hirata Jr.
 * Routo Terada
