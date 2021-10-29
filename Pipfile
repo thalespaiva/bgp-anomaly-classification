@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+ipython = "*"
+pybgpstream = "*"
+pandas = "*"
+tqdm = "*"
+geopy = "*"
+scipy = "*"
+matplotlib = "*"
+seaborn = "*"
+scikit-learn = "*"
+tensorflow = "~=2.4.2"
+gensim = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"

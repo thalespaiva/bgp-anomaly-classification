@@ -1,0 +1,10 @@
+event,class,str_class,project,collector,peers,start_date,finish_date
+AS9121 RTL,0,Direct,ris,rrc05,13237 12793 1853,2004-12-24 09:20,2004-12-24 10:03
+AWS Route Leak,0,Direct,ris,rrc04,6939,2016-04-22 17:10,2016-04-22 20:00
+Malaysian Telecom,0,Direct,ris,rrc04,513 2509 20932,2015-06-12 08:42,2015-06-12 10:24
+Code Red v2,1,Indirect,ris,rrc04,513 559 6893,2001-07-19 10:00,2001-07-19 20:00
+WannaCrypt,1,Indirect,ris,rrc04,,2017-05-12 07:44,2017-05-15 23:59
+Nimda,1,Indirect,ris,rrc04,513 559 6893,2001-07-18 13:00,2001-07-21 12:00
+Slammer,1,Indirect,ris,rrc04,513 559 6893,2003-01-25 05:31,2003-01-25 19:59
+Moscow Blackout,2,Outage,ris,rrc05,1853 12793 13237,2005-05-25 04:40,2005-05-25 07:40
+Japan Earthquake,2,Outage,ris,rrc06,10026 2497,2011-03-11 09:13,2011-03-11 15:39
